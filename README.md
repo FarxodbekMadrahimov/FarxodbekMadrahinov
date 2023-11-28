@@ -1,9 +1,9 @@
 <!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMADABDULLOH%20KOMILOV%20&desc=FULL%20STACK%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Farxodbek-Madrahimov%20&desc=FULL%20STACK%20.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 
 <h3 align="center">
-    Welcome to Muhammad Abdulloh's profile!
+    Welcome to Farxodbek's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
