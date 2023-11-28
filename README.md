@@ -9,7 +9,7 @@
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/MuhammadAbdulloh/readme-typing-svg">
+    <a href="https://github.com/FarxodbekMadrahimov/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%202+%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
 </p>
